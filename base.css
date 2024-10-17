@@ -1,0 +1,28 @@
+@charset "utf-8";
+body h1 {
+    color: #FF0000;
+    text-shadow: 0px 0px #000000;
+    text-align: center;
+}
+body p {
+    text-align: center;
+}
+
+.key {
+    color: #FF0027;
+    background-color: #FFFFFF;
+    font-size: x-large;
+}
+body {
+    background-repeat: no-repeat;
+    background-image: url(R.jpg);
+    color: #000000;
+    font-size: x-large;
+    font-family: Georgia, "Times New Roman", Times, serif;
+}
+body p img {
+    border: 10px dashed #FFFFFF;
+}
+
+body p {
+}
